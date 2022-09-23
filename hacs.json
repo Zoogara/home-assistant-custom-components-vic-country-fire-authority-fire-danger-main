@@ -1,0 +1,7 @@
+{
+  "name": "VIC Country Fire Authority - Fire Danger",
+  "domains": ["binary_sensor", "sensor"],
+  "country": ["AU"],
+  "homeassistant": "2022.8.0",
+  "iot_class": ["Cloud Polling"]
+}
